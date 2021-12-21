@@ -1581,3 +1581,13 @@ Assortment of conference and training videos.
 * [All Changelogs](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
 * [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
+
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#react-native-development)
