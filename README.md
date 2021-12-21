@@ -1,6 +1,6 @@
 # React Native Development
 
-> Welcome to React Native
+> Welcome to React Native. 
 An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about React Native Framework Development.
 
 React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities. 
