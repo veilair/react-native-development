@@ -12,7 +12,11 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
  - Component-Based
  - Learn Once, Write Anywhere
 
-#### Javascript Frameworks
+### Javascript Frameworks
+
+ - The five most popular JavaScript frameworks are **Node.js, Vue.js, AngularJS, Ember.js, and React.**
+
+![js frameworks](https://github.com/veilair/react-native-development/blob/main/img/java-script-frameworks.png)
 
 
 
