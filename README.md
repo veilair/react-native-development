@@ -3,7 +3,7 @@
 > Welcome to React Native. 
 An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about React Native Framework Development.
 
-![react native](https://github.com/veilair/react-native-development/blob/main/img/java-script-frameworks.png)
+![react native](https://github.com/veilair/react-native-development/blob/main/img/react-native.png)
 
 [React Native](https://reactnative.dev/) is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities. 
 
