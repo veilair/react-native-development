@@ -7,12 +7,12 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
 
 [React Native](https://reactnative.dev/) is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities. 
 
-### Why React Native?
+### `Why React Native?`
  - Declarative 
  - Component-Based
  - Learn Once, Write Anywhere
 
-### Javascript Frameworks
+### `Javascript Frameworks`
 
  - The five most popular JavaScript frameworks are **Node.js, Vue.js, AngularJS, Ember.js, and React.**
 
@@ -20,7 +20,7 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
 
 
 
-## Table of Contents
+## `Table of Contents`
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 
