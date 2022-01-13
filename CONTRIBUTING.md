@@ -1,22 +1,44 @@
-# Contribution Guidelines
+# Contributing to React Native Development
 
-# Contributing
+Thanks for taking the time to contribute :+1:
 
-Your contributions are always welcome!
+The following is a set of guidelines for contributing to Awesome Ruby. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this project.
 
-## Guidelines
+## How Can I Contribute?
 
-* Add one link per Pull Request.
-    * Make sure the PR title is in the format of `Add project-name`.
-    * Write down the reason why the library is awesome.
-* Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
-    * Keep descriptions concise and **short**.
-* Add a section if needed.
-    * Add the section description.
-    * Add the section title to Table of Contents.
-* Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
+### Creating Issues
+
+Do you know any cool Ruby project that isn't listed here? It isn't also on the [open issues](https://github.com/markets/react-native-development/issues) or [pull requests](https://github.com/markets/react-native-development/pulls)?
+Please create a new issue or submit a pull request, we will be happy to receive it!
+
+### Submitting Pull Requests
+
+Feel free to take any open issue, just make sure that you follow the contribution guidelines.
+
+### Voting and commenting
+
+Just use GitHub reactions and comments to express your feelings/experience about open suggestions (additions or removals).
+
+## Contribution Guidelines
+
+* Please search previous suggestions before making a new one, as yours may be a duplicate.
+* Use the following format: `[Library](url) - Description.`
+* The link should be the name of the package or project.
+* Links and categories should be sorted alphabetically.
+* Add one link per pull-request.
+* Keep descriptions concise, clear and simple, and end them with a period/stop.
 * Check your spelling and grammar.
-* Remove any trailing whitespace.
+* New categories, or improvements to the existing ones are also welcome.
+* Make sure your text editor is set to remove trailing whitespace.
 
+## Quality standard
 
-Thank you for your suggestions!
+To stay on the list, projects should follow these quality standards:
+
+* Generally used (at least 20k downloads) and useful to the community.
+* Actively maintained (even if that just means take care of open issues and/or keep compatibility with current Ruby versions).
+* Stable.
+* Documented.
+* Tests.
+
+Thanks to all [contributors](https://github.com/markets/react-native-development/graphs/contributors), you're awesome and wouldn't be possible without you!
